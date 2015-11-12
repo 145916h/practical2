@@ -83,7 +83,9 @@ public class BookDetails {
         return bookId;
     }
 
+
     public void setBookId(String bookId) {
         this.bookId = bookId;
     }
 }
+
